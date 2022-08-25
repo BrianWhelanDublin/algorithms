@@ -1,7 +1,7 @@
 /**
  * Bubble Sort function.
  *
- * @param {Array} arr Array of items to sort
+ * @param {Array} nums Array of items to sort
  *
  * @return {Array} The sorted array
  */
