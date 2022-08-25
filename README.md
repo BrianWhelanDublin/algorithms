@@ -1,1 +1,1 @@
-# Collection of Javascript Algorithims
+# Collection of Javascript Algorithms
