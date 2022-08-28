@@ -71,7 +71,7 @@ class LinkedListStack {
 		const node = this.top;
 		this.top = this.top.next;
 
-		return node;
+		return node.val;
 	}
 
 	/**
